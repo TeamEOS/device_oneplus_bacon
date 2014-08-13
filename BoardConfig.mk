@@ -14,6 +14,8 @@
 # limitations under the License.
 #
 
+TARGET_GCC_VERSION_EXP := 4.8-linaro
+
 # Inherit from MSM8974 common
 -include device/oppo/msm8974-common/BoardConfigCommon.mk
 
