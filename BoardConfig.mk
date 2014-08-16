@@ -15,6 +15,7 @@
 #
 
 TARGET_GCC_VERSION_EXP := 4.8-linaro
+TARGET_KERNEL_CUSTOM_TOOLCHAIN := 4.7
 
 # Inherit from MSM8974 common
 -include device/oppo/msm8974-common/BoardConfigCommon.mk
