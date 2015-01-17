@@ -14,5 +14,9 @@
   {
     "repository": "device_qcom_common",
     "target_path": "device/qcom/common"
+  },
+  {
+    "repository": "vendor_oppo",
+    "target_path": "vendor/oppo"
   }
 ]
