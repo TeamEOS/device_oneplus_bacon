@@ -8,8 +8,10 @@
     "target_path": "device/oppo/common"
   },
   {
-    "repository": "kernel_oneplus_msm8974",
-    "target_path": "kernel/oneplus/msm8974"
+    "remote": "github",
+    "repository": "CyanogenMod/android_kernel_oneplus_msm8974",
+    "target_path": "kernel/oneplus/msm8974",
+    "revision": "cm-12.1"
   },
   {
     "repository": "device_qcom_common",
