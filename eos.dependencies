@@ -1,10 +1,14 @@
 [
   {
-    "repository": "device_oppo_msm8974-common",
+    "remote": "github",
+    "repository": "CyanogenMod/android_device_oppo_msm8974-common",
+    "revision": "cm-12.1",
     "target_path": "device/oppo/msm8974-common"
   },
   {
-    "repository": "device_oppo_common",
+    "remote": "github",
+    "repository": "CyanogenMod/android_device_oppo_common",
+    "revision": "cm-12.1",
     "target_path": "device/oppo/common"
   },
   {
@@ -18,11 +22,15 @@
     "target_path": "device/qcom/common"
   },
   {
-    "repository": "vendor_oneplus",
+    "remote": "github",
+    "repository": "TheMuppets/proprietary_vendor_oneplus",
+    "revision": "cm-12.1",
     "target_path": "vendor/oneplus"
   },
   {
-    "repository": "vendor_oppo",
+    "remote": "github",
+    "repository": "TheMuppets/proprietary_vendor_oppo",
+    "revision": "cm-12.1",
     "target_path": "vendor/oppo"
   }
 ]
