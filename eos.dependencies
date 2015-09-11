@@ -23,6 +23,12 @@
   },
   {
     "remote": "github",
+    "repository": "CyanogenMod/android_hardware_cyanogen",
+    "revision": "cm-12.1",
+    "target_path": "hardware/cyanogen"
+  },
+  {
+    "remote": "github",
     "repository": "TheMuppets/proprietary_vendor_oneplus",
     "revision": "cm-12.1",
     "target_path": "vendor/oneplus"
