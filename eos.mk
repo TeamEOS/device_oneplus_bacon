@@ -26,7 +26,7 @@ $(call inherit-product, vendor/eos/config/common_full_phone.mk)
 
 # Copy Bootanimation
 PRODUCT_COPY_FILES += \
-vendor/eos/prebuilt/common/bootanimation/1080.zip:system/media/bootanimation.zip
+vendor/eos/prebuilt/common/bootanimation/bootanimation.zip:system/media/bootanimation.zip
 
 PRODUCT_NAME := eos_bacon
 PRODUCT_DEVICE := bacon
